@@ -1,0 +1,11 @@
+.card-group{
+    margin-bottom: 50px;
+}
+.course-container{
+    border: 3px solid #218838  
+}
+.enrolled-container{
+    padding-left: 40px;
+    box-shadow: 5px 5px 10px grey;
+    height: 50vh;
+}
